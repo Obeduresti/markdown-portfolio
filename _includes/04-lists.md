@@ -1,3 +1,3 @@
-[]Food
-[] videogames
-[] sleep
+- Food
+- videogames
+-  sleep
